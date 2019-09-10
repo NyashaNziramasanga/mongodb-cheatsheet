@@ -36,6 +36,12 @@ db.createCollection('posts')
 show collections
 ```
 
+## Show All Rows in a collection
+
+```
+db.collectionName.find().pretty()
+```
+
 ## Insert Row
 
 ```
