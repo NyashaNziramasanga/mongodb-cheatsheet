@@ -1,4 +1,4 @@
-# 🖥 Run mongo db in the foreground 🗄
+🖥 Run mongo db in the foreground 🗄
 
 > mongoldb —config /usr/local/etc/mongod.conf
 
